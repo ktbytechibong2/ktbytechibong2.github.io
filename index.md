@@ -1,4 +1,4 @@
-Welcome to my web portfolio. Here you can see the past projects that I did.
+Welcome to my web portfolio. I am an instructor here at [KTBYTE](https://www.ktbyte.com). Here you can see the past projects that I did. 
 
 # Youtube Projects
 
